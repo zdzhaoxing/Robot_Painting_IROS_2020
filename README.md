@@ -1,2 +1,2 @@
 # Robot_Painting
-Let Sawyer Robot recognize and paint and object
+Let Sawyer Robot recognize and coat an object
