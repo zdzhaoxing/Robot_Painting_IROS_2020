@@ -2,8 +2,6 @@
 
 '''
 10/09/2019
-Copyright Yayun Du  duyayun1hit@yahoo.com.hk
-Copy and redistribution is not permitted. Written permission is required.
 '''
 
 
